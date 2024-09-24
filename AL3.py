@@ -1,4 +1,4 @@
-# Eddie Lee
+# Po-Shen Lee
 # Date: 09/17/2024
 # Grayscale and Inversion without built-in cv2 functions
 

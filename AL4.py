@@ -1,4 +1,4 @@
-# Eddie Lee
+# Po-Shen Lee
 # Date: 09/17/2024
 # Histogram Equalization for Colored Image
 
