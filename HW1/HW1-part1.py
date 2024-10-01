@@ -29,7 +29,7 @@ def histogram_equalization(image):
 
 
 # Load the dark image from canvas
-image = cv2.imread('images/dark_image.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('dark_image.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Apply manual histogram equalization
 equalized_image_manual = histogram_equalization(image)
